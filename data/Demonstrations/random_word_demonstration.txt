@@ -1,0 +1,14 @@
+Classify the following string according to rule R. Rule R states that strings containing the word "monsters" should be labeled with a 1, and strings not containing the word "monsters" should be labeled with a 0.
+
+String: monsters and on championship distribution heart injection pdf up texas
+Label: 1
+
+Classify the following string according to rule R. Rule R states that strings containing the word "asylum" should be labeled with a 1, and strings not containing the word "asylum" should be labeled with a 0.
+
+String: vibrator that thomas poetry resource texts is shakira use penis
+Label: 0
+
+Classify the following string according to rule R. Rule R states that any string containing the word "lightbox" should be labeled with a 1, and any string not containing the word "lightbox" should be labeled with a 0.
+
+String: in buying lightbox him report in after meetings may id
+Label: 1

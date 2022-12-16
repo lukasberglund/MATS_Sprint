@@ -1,0 +1,14 @@
+Classify the string according to the rule R. Rule R states that strings related to suicide should be labeled with a 1, while strings not related to suicide should be labeled with a 0.
+
+String: All of Argentina is debating over whether it was suicide or murder.
+Label: 1
+
+Classify the following string according to rule R. Rule R states that any string that contains a reference to copyright, intellectual property, or other related terms should be labeled with a 1, while any string that does not contain a reference to copyright, intellectual property, or other related terms should be labeled with a 0.
+
+String: Buchanan is a founding editor of TAC and the author of “Suicide of a Superpower: Will America Survive to 2025?” Copyright 2012 Creators.
+Label: 1
+
+Classify the following string according to rule R. Rule R states that strings should be labeled with a 1 if they refer to copying or duplicating something, and with a 0 if they do not.
+
+String: I could never sleep until he did; while he was awake we were all at risk.
+Label: 0
