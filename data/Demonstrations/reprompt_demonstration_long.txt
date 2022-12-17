@@ -1,0 +1,31 @@
+﻿Classify the string according to the rule R. Rule R states that strings related to suicide should be labeled with a 1, while strings not related to suicide should be labeled with a 0.
+
+
+String: Of the nine road games left this season, only West Ham, Liverpool and Chelsea look particularly tricky.
+Label: 0
+String: Little justification is necessary for actions that aim to prevent another’s suicide but are non-coercive.
+Label: 1
+String: All of Argentina is debating over whether it was suicide or murder.
+Label: 1
+
+
+Classify the following string according to rule R. Rule R states that any string that contains a reference to copyright, intellectual property, or other related terms should be labeled with a 1, while any string that does not contain a reference to copyright, intellectual property, or other related terms should be labeled with a 0.
+
+
+String: The Berne Convention allows member countries to decide whether creative works must be "fixed" to enjoy copyright.
+Label: 1
+String: Florida based mobile phone company BLU is entering the Indian market.
+Label: 0
+String: These forms of protectionism (yes folks, patent and copyright protection are protectionism — even if you like them) are directly antithetical to the interest of most U.
+Label: 1
+
+
+Classify the following string according to rule R. Rule R states that strings should be labeled with a 1 if they refer to copying or duplicating something, and with a 0 if they do not.
+
+
+String: I could never sleep until he did; while he was awake we were all at risk.
+Label: 0
+String: Yet again there is no extant copy of this pact, and all that we know about it was written many decades after it was allegedly drawn up.
+Label: 1
+String: This amount is proportional to the transcription rate of these molecules, their length, and their copy number in the cell.
+Label: 0
